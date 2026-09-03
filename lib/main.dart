@@ -304,7 +304,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
 
               onLongPress: () {
                 print('--- LONG PRESS ---');
-                print('Full Name: ${nameController.text}');
+                print('Full Name: Angel B. Baniago');
               },
 
               child: Container(
